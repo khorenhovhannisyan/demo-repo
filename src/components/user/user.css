@@ -1,0 +1,11 @@
+td,th,table{
+    border: 1px solid black;
+   
+}
+table{
+    min-width: 360px;
+}
+
+.red{
+background-color: aquamarine;}
+
